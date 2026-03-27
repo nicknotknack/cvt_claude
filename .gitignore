@@ -1,15 +1,18 @@
 # Foundry
 contracts/out/
 contracts/cache/
-contracts/broadcast/
 contracts/.env
 contracts/lib/
+contracts/deploy-sepolia.sh
 
 # Frontend
 frontend/node_modules/
 frontend/dist/
 frontend/.env
 frontend/.env.local
+
+# Claude
+.claude/
 
 # Misc
 .DS_Store
